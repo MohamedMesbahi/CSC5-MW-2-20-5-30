@@ -1,4 +1,4 @@
-# CSC5-MW-2-20-5-30
+# CSC5-MW-2:20-5:30
 MLK Lab Schedule (Room 219 2nd floor)
 
 M: 10am-3pm
