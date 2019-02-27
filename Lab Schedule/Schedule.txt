@@ -1,0 +1,4 @@
+M: 10am-3pm
+T: 10am-12pm
+W: 2pm-3pm
+F: 10:30am-11:30am

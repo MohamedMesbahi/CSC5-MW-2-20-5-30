@@ -1,0 +1,4 @@
+1) Create your Flowchart
+2) Set up your Eclipse Workspace
+3) Create the source file "main.cpp"
+4)Input Data / Echo back input data
