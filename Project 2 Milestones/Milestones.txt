@@ -1,7 +1,7 @@
 1) Create your Flowchart
 2) Set up your Eclipse Workspace
 3) Create the source file "main.cpp"
-4)Input 1 letter grade and echo it back
-5)Create a switch statement - Branch on Multiple Grades and Echo Them Back
-6)Embed everything inside a while loop with accumulator
-7)Output GPA
+4) Input 1 letter grade and echo it back
+5) Create a switch statement - Branch on Multiple Grades and Echo Them Back
+6) Embed everything inside a while loop with accumulator
+7) Output GPA
